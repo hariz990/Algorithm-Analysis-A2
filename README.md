@@ -1,5 +1,5 @@
 # Algorithm-Analysis-A2
-Algorithm and Analysis Assignment 2
+Algorithm and Analysis Assignment 2 (Semester 1 2019)
 
 To run the project please follow instructions that were given in README file attached in the project folder
 
