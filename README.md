@@ -5,4 +5,4 @@ To run the project please follow instructions that were given in README file att
 
 PATH - Assign2-s3701799-s3694451 > src > README
 
-Please read assign2Report.pdf report file for elaboration and understanding of the tasks
+Assignment report can be found in assign2Report.pdf file for more elaboration and understanding of given tasks
